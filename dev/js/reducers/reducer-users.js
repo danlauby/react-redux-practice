@@ -19,7 +19,7 @@
      last: "the Dad",
      age: 37,
      description: "Ain't too bad either.",
-     thumbnail: "http://www.cheatsheet.com/wp-content/uploads/2016/02/voltron-164801.jpg"
+     thumbnail: "https://lc-www-live-s.legocdn.com/r/www/r/catalogs/-/media/catalogs/characters/lbm%20characters/primary/70902_1to1_robin_360_480.png?l.r2=-84004269"
    },
    {
      id: 3,
@@ -27,7 +27,7 @@
      last: "Defender of the Unviverse",
      age: 100000000009,
      description: "Is the coolest giant robot, formed by small lion robots, driven by kids.",
-     thumbnail: "http://i.imgur.com/4EMtxHB.png"
+     thumbnail: "http://www.cheatsheet.com/wp-content/uploads/2016/02/voltron-164801.jpg"
    }
  ]
 }

@@ -1,33 +1,33 @@
-/*
+    /*
  * The users reducer will always return an array of users no matter what
  * You need to return something, so if there are no users then just return an empty array
  * */
 
-export default function () {
-    return [
-        {
-            id: 1,
-            first: "Bucky",
-            last: "Roberts",
-            age: 71,
-            description: "Bucky is a React developer and YouTuber",
-            thumbnail: "http://i.imgur.com/7yUvePI.jpg"
-        },
-        {
-            id: 2,
-            first: "Joby",
-            last: "Wasilenko",
-            age: 27,
-            description: "Joby loves the Packers, cheese, and turtles.",
-            thumbnail: "http://i.imgur.com/52xRlm8.png"
-        },
-        {
-            id: 3,
-            first: "Madison",
-            last: "Williams",
-            age: 24,
-            description: "Madi likes her dog but it is really annoying.",
-            thumbnail: "http://i.imgur.com/4EMtxHB.png"
-        }
-    ]
+ export default function () {
+  return [
+   {
+     id: 1,
+     first: "Trent",
+     last: "the Magician",
+     age: 5,
+     description: "Is the coolest kid on the block.",
+     thumbnail: "https://lc-www-live-s.legocdn.com/r/www/r/catalogs/-/media/catalogs/characters/dc/mugshots/mugshot%202016/76061_1to1_mf_batman_336.png?l.r2=-798905063"
+   },
+   {
+     id: 2,
+     first: "Daniel",
+     last: "the Dad",
+     age: 37,
+     description: "Ain't too bad either.",
+     thumbnail: "http://www.cheatsheet.com/wp-content/uploads/2016/02/voltron-164801.jpg"
+   },
+   {
+     id: 3,
+     first: "Voltron",
+     last: "Defender of the Unviverse",
+     age: 100000000009,
+     description: "Is the coolest giant robot, formed by small lion robots, driven by kids.",
+     thumbnail: "http://i.imgur.com/4EMtxHB.png"
+   }
+ ]
 }
